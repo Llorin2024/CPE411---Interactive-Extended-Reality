@@ -70,14 +70,14 @@
 
 ---
 
-### 🕹️ Fun Animations
+### 🕹️ Fun Animations (404 Error Fixed)
 
 <div align="center">
   
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" />
+  <img height="160" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bm9vYWhsZ2o3am1lM294MXVlajF3anBsb3h3d3NxOGE5amtyb3Z3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qz4J6xYhH5m1i/giphy.gif" alt="Pac-Man GIF" />
   <br/>
 
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="GitHub Snake Animation" />
+  <img height="160" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y25xOWU0b21pOXU1bWF3eHZreXF4aWlwaW81cm95dGswY3RkZ2RleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k8L7W9vG7gG0aI/giphy.gif" alt="Snake Game GIF" />
   <br/>
   
   <img height="200" src="https://i.ibb.co/6gG52zT/penguin-coding-gif.gif" alt="Cute Penguin Coding GIF" />
