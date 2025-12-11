@@ -70,14 +70,14 @@
 
 ---
 
-### 🕹️ Dynamic Animations
+### 🕹️ Fun Animations
 
 <div align="center">
   
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg" />
+  <img height="160" src="https://i.giphy.com/media/A8NkSPltT13H2/giphy.gif" alt="Pac-Man GIF" />
   <br/>
 
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="GitHub Snake Animation" />
+  <img height="160" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y25xOWU0b21pOXU1bWF3eHZreXF4aWlwaW81cm95dGswY3RkZ2RleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k8L7W9vG7gG0aI/giphy.gif" alt="Snake Game GIF" />
   <br/>
   
   <img height="200" src="https://i.ibb.co/6gG52zT/penguin-coding-gif.gif" alt="Cute Penguin Coding GIF" />
