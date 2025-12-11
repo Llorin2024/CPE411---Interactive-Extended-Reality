@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Keon Martin S. Llorin ... and I'm a Computer Engineering (HCI Student) ..., from T.I.P Quezon City ....</h3>
+<h3 align="center">Hi 👋! My name is Keon Martin S. Llorin ... and I'm a Computer Engineering (HCI Student) ..., from T.I.P Quezon City .... I believe Computer engineering isn't just about building the future; its about debugging the present until it runs smoothly</h3>
 
 ###
 
