@@ -3,7 +3,6 @@
 # Hi 👋! My name is Keon Martin S. Llorin
 
 ### 🧑‍💻 Computer Engineering (HCI Student) from T.I.P Quezon City
-
 > "Computer engineering isn't just about building the future; it's about debugging the present until it runs smoothly."
 
 </div>
@@ -44,7 +43,7 @@
 ### 🌐 Connect with Me
 
 <div align="center">
-  <a href="YOUR_Facebook_LINK">
+  <a href="YOUR_YOUTUBE_LINK">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
   </a>
   &nbsp;
@@ -71,20 +70,17 @@
 
 ---
 
-### ✨ Fun Animations
+### 🕹️ Fun Animations
 
 <div align="center">
+  
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" />
+  <br/>
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="GitHub Snake Animation" />
-<br/>
+  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="GitHub Snake Animation" />
+  <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg" height="150">
-</picture>
-<br/>
-
-<img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWg0eWF1ZDY5YWU1cTV3aDd4a2ZubGJhZGFmOGFsZTg1ZGNoZnU3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5tiNlHkA1WdUh3jRDW/giphy.gif" alt="Coding GIF Example" />
+  <img height="200" src="https://i.ibb.co/6gG52zT/penguin-coding-gif.gif" alt="Cute Penguin Coding GIF" />
+  <br/>
 
 </div>
