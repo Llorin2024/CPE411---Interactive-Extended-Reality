@@ -79,8 +79,6 @@
 
   <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="GitHub Snake Animation" />
   <br/>
-
+  
   <img height="200" src="https://i.ibb.co/6gG52zT/penguin-coding-gif.gif" alt="Cute Penguin Coding GIF" />
-  <br/>
-
 </div>
