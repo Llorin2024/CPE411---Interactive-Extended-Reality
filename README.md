@@ -61,9 +61,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWg0eWF1ZDY5YWU1cTV3aDd4a2ZubGJhZGFmOGFsZTg1ZGNoZnU3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5tiNlHkA1WdUh3jRDW/giphy.gif
 </picture>
 
 ###
