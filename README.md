@@ -46,3 +46,18 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
+
+---
+
+### 🕹️ Fun Animations
+
+<div align="center">
+  
+  <img height="160" src="https://i.giphy.com/media/A8NkSPltT13H2/giphy.gif" alt="Pac-Man GIF" />
+  <br/>
+
+  <img height="160" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y25xOWU0b21pOXU1bWF3eHZreXF4aWlwaW81cm95dGswY3RkZ2RleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k8L7W9vG7gG0aI/giphy.gif" alt="Snake Game GIF" />
+  <br/>
+  
+  <img height="200" src="https://i.ibb.co/6gG52zT/penguin-coding-gif.gif" alt="Cute Penguin Coding GIF" />
+</div>
