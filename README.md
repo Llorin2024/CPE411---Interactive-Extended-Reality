@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Keon Martin S. Llorin ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Keon Martin S. Llorin ... and I'm a Computer Engineering (HCI Student) ..., from T.I.P Quezon City ....</h2>
 
 ###
 
